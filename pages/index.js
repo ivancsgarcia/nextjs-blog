@@ -9,7 +9,19 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>My name is Ivan Christopher S. Garcia and you can call me Ivan. I am from Mandasig, Candaba, Pampanga. My favorite hobbies are: playing video games, watching movies/series, and scroll through my social medias. My favorite music changes a lot and right now I don’t have a favorite song but I’ve been listening to Maroon 5 and 5 Second of Summer. My favorite foods are: Sinigang, Sisig, and Chicken. I am busy by doing a lot of household chores, studying but most of the times I am free and can do what I want to do.</p>
+        <p>10 Things That Require Zero Talent</p>
+    <ol>
+      <li>Being on Time</li>
+    <li>Making An Effort</li>
+    <li>Being High Energy</li>
+    <li>Having A Positive Attitude</li>
+    <li>Being Passionate</li>
+    <li>Using Good Body Language</li>
+    <li>Being Coachable</li>
+    <li>Doing A Little Extra</li>
+    <li>Being Prepared</li>
+    <li>Having A Strong Work Ethic</li>
+    </o>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
